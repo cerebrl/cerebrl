@@ -1,4 +1,4 @@
-**Hi there 👋, I'm Justin. I'm a principle Web engineer, technical lead and educator.**
+**Hi there 👋, I'm Justin. I'm a Principal Web Engineer, Technical Lead and educator.**
 
 ## Summary
 
