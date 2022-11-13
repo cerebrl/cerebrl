@@ -30,6 +30,7 @@ An interesting R&D initiative that I recently completed was a prototype implemen
 5. Browser security, protocols, & APIs
 
 ## Psychosocial skills
+(In no particular order)
 
 1. Team development
 2. Education & mentorship
