@@ -29,7 +29,7 @@ An interesting R&D initiative that I recently completed was a prototype implemen
 4. Authentication, authorization, Ouath & OIDC
 5. Browser security, protocols, & APIs
 
-## Psychosocial skills
+## Psychosocial Skills
 (In no particular order)
 
 1. Team development
