@@ -19,7 +19,7 @@ Another interesting R&D initiative that I recently completed was a prototype imp
 - [I have an educational blog that I post to once in a while](https://cerebralideas.com)
 - [My Github organization focused on education and innovation](https://github.com/cerebralideas)
 - [My LinkedIn profile](https://www.linkedin.com/in/cerebrl/)
-- [A presentation about my (at the time) new architecture for PayPal Consumer apps](https://vimeo.com/219400955)
+- [Presentation of my (at the time) new architecture for PayPal Consumer apps](https://vimeo.com/219400955)
 
 ## Technical Skills
 (In no particular order)
