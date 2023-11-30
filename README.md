@@ -37,6 +37,6 @@ Another interesting project that I recently completed was an implementation of s
 1. Team development
 2. Education & mentorship
 3. Technical leadership
-4. Architectural design
+4. Collaborative design
 5. Conflict resolution
 6. Cultural & process development
