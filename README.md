@@ -1,5 +1,7 @@
 **Hi there 👋, I'm Justin. I'm a Principal Web Engineer, Technical Lead and educator.**
 
+![Cerebrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerebrl
+
 ## Summary
 
 I'm currently working as a Principal Engineer on ForgeRock's open source, Web projects for Identity and Access Management (IAM) development. Our main focus is on building a better developer experience for all ForgeRock customers and their developers. This entails both the design and development of SDKs, frameworks, and libraries as well as the development of educational tools, tutorials, and documentation.
